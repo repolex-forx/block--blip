@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/block/blip/commit/7e793f93645792a354d7a608b43d35935b017fca",
       "git:hexsha": "7e793f93645792a354d7a608b43d35935b017fca",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-02T10:26:24.649900+00:00"
     },
     {
       "@id": "https://repolex.ai/r/block/blip/commit/a5c9f4b11eadef25d8587bf5434e75eb2d36c9e6",

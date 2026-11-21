@@ -36,12 +36,17 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 .
 ├── aggregate
 │   ├── ast
-│   │   └── 7e793f93645792a354d7a608b43d35935b017fca
+│   │   ├── 7e793f93645792a354d7a608b43d35935b017fca
+│   │   │   └── chunk-001.nq.gz
+│   │   └── a5c9f4b11eadef25d8587bf5434e75eb2d36c9e6
 │   │       └── chunk-001.nq.gz
 │   ├── lsp
-│   │   └── 7e793f93645792a354d7a608b43d35935b017fca.nq.gz
+│   │   ├── 7e793f93645792a354d7a608b43d35935b017fca.nq.gz
+│   │   └── a5c9f4b11eadef25d8587bf5434e75eb2d36c9e6.nq.gz
 │   └── repolex
-│       └── 7e793f93645792a354d7a608b43d35935b017fca
+│       ├── 7e793f93645792a354d7a608b43d35935b017fca
+│       │   └── chunk-001.nq.gz
+│       └── a5c9f4b11eadef25d8587bf5434e75eb2d36c9e6
 │           └── chunk-001.nq.gz
 └── blob
     ├── 005e6b8f9af9f345ecf9316e82457761828e4874.nq.gz
@@ -180,6 +185,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
     ├── 580777ca68fa22b0682148d95d984804a3e71069.nq.gz
     ├── 584a98cdd1c0dc0ed78d5d6f9d9fcb7f05f16d37.nq.gz
     ├── 586ac8f4cbfad5c80e77b58688afb3ca16cddbea.nq.gz
+    ├── 586d5faaf26151f050cde18f0d42aef864cf40e8.nq.gz
     ├── 589a79c3da1c5dea2fb054433b4de30bdccdc425.nq.gz
     ├── 589eeec96c9af5fdc71e289a0770b2943601dbf7.nq.gz
     ├── 58bc406fe4f7d141c17b71cb8edae84829e4c64e.nq.gz
@@ -236,13 +242,9 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
     ├── 785272e0b134eac1cdd81e5e96909e8604aa4d09.nq.gz
     ├── 78aff26d309e30b0a35a206817ff430a35189d80.nq.gz
     ├── 790d43d322646356413a09d2219357a39a594b5b.nq.gz
-    ├── 796cb17b55771e8282b4554a86f145a6193f39a5.nq.gz
-    ├── 79960c5f07a13f0071f9dcef4e8fa854912c964a.nq.gz
-    ├── 7a337b2fb913890a79ab4bfe752d4e55be48b754.nq.gz
-    ├── 7a9867f6ee4e32b07244ab72038e5f977f8f506d.nq.gz
-    └── 7b8a5d980a590d2ab9d5165cc21e510d2a1a0303.nq.gz
+    └── 796cb17b55771e8282b4554a86f145a6193f39a5.nq.gz
 
-8 directories, 200 files
+10 directories, 200 files
 ```
 
 | Directory | What it contains |
@@ -263,4 +265,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [block/blip](https://github.com/block/blip)
 
 ---
-*Parsed on 2026-10-02 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-21 by [repolex](https://repolex.ai)*

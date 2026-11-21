@@ -3,6 +3,11 @@
   "repo": "blip",
   "versions": [
     {
+      "commit": "a5c9f4b11eadef25d8587bf5434e75eb2d36c9e6",
+      "tag": "v2.1.0",
+      "parsed_at": "2026-11-21T23:07:54.252389+00:00"
+    },
+    {
       "commit": "7e793f93645792a354d7a608b43d35935b017fca",
       "tag": "main",
       "parsed_at": "2026-10-02T10:26:24.650443+00:00"

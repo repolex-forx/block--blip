@@ -2183,7 +2183,9 @@
           "githubUrl": "https://github.com/uber-go/zap",
           "source": "build_file:go.mod"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/a5c9f4b11eadef25d8587bf5434e75eb2d36c9e6/chunk-001.nq.gz",
+      "dep": "dep/a5c9f4b11eadef25d8587bf5434e75eb2d36c9e6.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
